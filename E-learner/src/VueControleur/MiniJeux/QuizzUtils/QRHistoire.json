@@ -1,0 +1,730 @@
+[
+ {
+   "question": "Quand l'artisanat a-t-il commencé à se développer ?",
+   "bonnereponse": "Durant le Néolithique",
+   "reponse2": "Pendant la Révolution française.",
+   "reponse3": "Pendant l'Empire romain.",
+   "reponse4": "Pendant la Renaissance."
+ },
+ {
+   "question": "Quels sont les plus anciens monuments retrouvés dans notre pays ?",
+   "bonnereponse": "Les menhirs",
+   "reponse2": "Les pyramides.",
+   "reponse3": "La Grande Muraille.",
+   "reponse4": "Les temples d'Angkor."
+ },
+ {
+   "question": "Quel adjectif est utilisé pour dire que l'homme arrête de se déplacer pour vivre au même endroit ?",
+   "bonnereponse": "Sédentaire",
+   "reponse2": "Nomade",
+   "reponse3": "Errant",
+   "reponse4": "Chaotique"
+ },
+ {
+   "question": "En quel matériau est fait un biface ?",
+   "bonnereponse": "En pierre",
+   "reponse2": "En plastique.",
+   "reponse3": "En papier.",
+   "reponse4": "En chocolat."
+ },
+ {
+   "question": "A quelle époque les premiers métaux sont-ils apparus sur notre territoire ?",
+   "bonnereponse": "Au Néolithique",
+   "reponse2": "Au XXIème siècle",
+   "reponse3": "Pendant la Renaissance.",
+   "reponse4": "Au temps des dinosaures."
+ },
+ {
+   "question": "En France, une grotte a apporté de nombreux témoignages sur la vie des premiers hommes. Comment s’appelle-t-elle ?",
+   "bonnereponse": "La grotte de Lascaux",
+   "reponse2": "La grotte du Loup",
+   "reponse3": "La grotte du tigre",
+   "reponse4": "La grotte sacrée"
+ },
+ {
+   "question": "Que signifie l’expression « faire le siège d’une ville » ?",
+   "bonnereponse": "Encercler la ville",
+   "reponse2": "Détruire la ville",
+   "reponse3": "Construire la ville",
+   "reponse4": "Organiser un banquet"
+ },
+ {
+   "question": "Comment les Romains ont-ils réussi à gagner à Alésia ?",
+   "bonnereponse": "En l'assiégeant",
+   "reponse2": "En y mettant feu",
+   "reponse3": "En la bombardant",
+   "reponse4": "En construisant un mur autour"
+ },
+ {
+   "question": "Qu'est-il arrivé à Vercingétorix après sa défaite à Alésia ?",
+   "bonnereponse": "Il a été capturé, amené à Rome et étranglé en prison.",
+   "reponse2": "Il a été exilé",
+   "reponse3": "Il a été libéré",
+   "reponse4": "Il s'est enfui"
+ },
+ {
+   "question": "Dans quelle ville Vercingétorix a-t-il remporté la bataille ?",
+   "bonnereponse": "Gergovie",
+   "reponse2": "Waterloo",
+   "reponse3": "Alésia",
+   "reponse4": "Avaricum"
+ },
+ {
+   "question": "Chez les Gaulois, quel était le rôle du druide ?",
+   "bonnereponse": "Il s’occupait de la religion et de l’éducation dans le village.",
+   "reponse2": "Médecin",
+   "reponse3": "Préparateur de potions",
+   "reponse4": "Chanteur"
+ },
+ {
+   "question": "Les Gaulois étaient souvent en conflit avec des tribus voisines. Que faisaient-ils pour protéger leur village ?",
+   "bonnereponse": "Les Gaulois construisaient leurs villages en haut de collines et les entouraient de palissades de bois.",
+   "reponse2": "Ils chantaient",
+   "reponse3": "Ils dansaient",
+   "reponse4": "Ils plantaient des arbres"
+ },
+ {
+   "question": "En quoi consiste le plan de Vercingétorix pour vaincre les Romains ? ",
+   "bonnereponse": "Détruire les réserves pour priver les Romains de vivres",
+   "reponse2": "Les tuer",
+   "reponse3": "Les encercler",
+   "reponse4": "Les bruler"
+ },
+ {
+   "question": "Quels bâtiments publics sont construits dans la plupart des villes gallo-romaines ?",
+   "bonnereponse": "Des arènes, des théâtres, des arcs de triomphe.",
+   "reponse2": "Des stades",
+   "reponse3": "Des parcs",
+   "reponse4": "Des obélisques"
+ },
+ {
+   "question": "Quel est le titre de Jules César ?",
+   "bonnereponse": "Consul de Rome",
+   "reponse2": "Empereur",
+   "reponse3": "Roi",
+   "reponse4": "Tsar"
+ },
+ {
+   "question": "La bataille d'Alésia marqua la victoire des armées romaines sur les guerriers gaulois. Quand eut-elle lieu ?",
+   "bonnereponse": "En -52",
+   "reponse2": "En -56",
+   "reponse3": "En 0",
+   "reponse4": "En 54"
+ },
+ {
+   "question": "Comment appelait-on l’ensemble des peuples venus de l’Est qui ont envahi l’Empire romain ?",
+   "bonnereponse": "Les peuples barbares.",
+   "reponse2": "Les arabes",
+   "reponse3": "Les mongols",
+   "reponse4": "Les Grecs"
+ },
+ {
+   "question": "Comment appelait-on les paysans libres qui travaillaient pour un seigneur ?",
+   "bonnereponse": "Les vilains.",
+   "reponse2": "Les affranchis",
+   "reponse3": "Les libres",
+   "reponse4": "Les esclaves"
+ },
+ {
+   "question": "À quelle dynastie Charlemagne appartient-il ?",
+   "bonnereponse": "À la dynastie des Carolingiens.",
+   "reponse2": "A celle des Mérovingiens",
+   "reponse3": "A ces des Bourbon",
+   "reponse4": "A celle des Orléans"
+ },
+ {
+   "question": "Quels sont les peuples qui s’installèrent en Gaule lors des invasions ?",
+   "bonnereponse": "Les Francs, les Burgondes, les Wisigoths.",
+   "reponse2": "Les celtes",
+   "reponse3": "Les arabes",
+   "reponse4": "Les prusses"
+ },
+ {
+   "question": "Au Moyen Âge, quelle est la principale activité des villes ?",
+   "bonnereponse": "Le commerce",
+   "reponse2": "Le dropshipping",
+   "reponse3": "La guerre",
+   "reponse4": "La prière"
+ },
+ {
+   "question": "D’où venaient les peuples qui ont envahi la Gaule à partir du IIIe siècle ?",
+   "bonnereponse": "De l'Est de l'Europe",
+   "reponse2": "De l'Ouest de l'Europe",
+   "reponse3": "Du Sud de l'Europe",
+   "reponse4": "Du Nord de l'Europe"
+ },
+ {
+   "question": "Lors des guerres ou des tournois, quel était le nom des protections que les chevaliers portaient sur la tête ? ",
+   "bonnereponse": "Les Heaumes",
+   "reponse2": "Les boucliers",
+   "reponse3": "Les cômes",
+   "reponse4": "Les crabes"
+ },
+ {
+   "question": "De quel peuple Clovis est-il devenu le roi ?",
+   "bonnereponse": "Clovis était le roi des Francs.",
+   "reponse2": "Des anglais",
+   "reponse3": "Des prussiens",
+   "reponse4": "Des romains"
+ },
+ {
+   "question": "Quelle langue les Francs ont-ils adoptée pour écrire et parler ?",
+   "bonnereponse": "Le latin",
+   "reponse2": "Le français",
+   "reponse3": "Le celte",
+   "reponse4": "Le mandarin"
+ },
+ {
+   "question": "Que signifie « Charlemagne » ? ",
+   "bonnereponse": "Charles le Grand.",
+   "reponse2": "Charles le Petit",
+   "reponse3": "Charles le fort",
+   "reponse4": "Charles le vigoureux"
+ },
+ {
+   "question": "Pourquoi le 14 juillet est-il le jour de la fête nationale française ?",
+   "bonnereponse": "C’est l’anniversaire de la prise de la Bastille pendant la Révolution de 1789.",
+   "reponse2": "C'est l'anniversaire de Macron",
+   "reponse3": "C'est la naissance de la France",
+   "reponse4": "C'est la fin de la 1ère guerre mondiale"
+ },
+ {
+   "question": "Dans quel pays la Renaissance débute-t-elle ?",
+   "bonnereponse": "L'Italie",
+   "reponse2": "La France",
+   "reponse3": "L'Espagne",
+   "reponse4": "Le Portugal"
+ },
+ {
+   "question": "Quel était le roi qui régnait en 1789, au moment où a débuté la Révolution ?",
+   "bonnereponse": "Louis XVI",
+   "reponse2": "Louis XV",
+   "reponse3": "Louis IX",
+   "reponse4": "Charles III"
+ },
+ {
+   "question": "Comment Christophe Colomb a-t-il appelé les habitants de l’Amérique lorsqu’il y est arrivé pour la première fois ?",
+   "bonnereponse": "Les Indiens.",
+   "reponse2": "Les chinois",
+   "reponse3": "Les Américains",
+   "reponse4": "Les Australiens"
+ },
+ {
+   "question": "Molière était un écrivain, quelles sont ses œuvres les plus connues ?",
+   "bonnereponse": "Des pièces de théâtre.",
+   "reponse2": "Des poèmes",
+   "reponse3": "Des romans",
+   "reponse4": "Des films"
+ },
+ {
+   "question": "Qu'est-ce que la Saint-Barthélemy ?",
+   "bonnereponse": "C'est un massacre au cours duquel de nombreux protestants ont été tués.",
+   "reponse2": "La fête d'un religieux",
+   "reponse3": "Une victoire française contre les prussiens",
+   "reponse4": "Un jour comme les autres"
+ },
+ {
+   "question": "Quel était le nom de l’ingénieur qui fut chargé de construire des forts le long des frontières de la France ?",
+   "bonnereponse": "Vauban",
+   "reponse2": "Richelieu",
+   "reponse3": "Molière",
+   "reponse4": "Pétain"
+ },
+ {
+   "question": "Louis XIV est souvent représenté avec son sceptre, mais à quoi cela ressemble-t-il ?",
+   "bonnereponse": "Un bâton",
+   "reponse2": "Un cigare",
+   "reponse3": "Un bague",
+   "reponse4": "Un collier"
+ },
+ {
+   "question": "Qui a inventé l'imprimerie ?",
+   "bonnereponse": "Gutenberg",
+   "reponse2": "Nuremberg",
+   "reponse3": "Heydrich",
+   "reponse4": "Galilée"
+ },
+ {
+   "question": "Au début du XIXe siècle, la plupart des Français sont analphabètes. Qu'est-ce que cela signifie ?",
+   "bonnereponse": "Ils ne savent ni lire ni écrire.",
+   "reponse2": "Ils ne connaissent pas l'alphabet",
+   "reponse3": "Ils sont bêtes",
+   "reponse4": "Ils ne parlent pas d'autres langues"
+ },
+ {
+   "question": "Qui avait le droit de voter à la fin du XIXe siècle ?",
+   "bonnereponse": "Seulement les hommes.",
+   "reponse2": "Les hommes et les femmes",
+   "reponse3": "Personne",
+   "reponse4": "Les riches"
+ },
+ {
+   "question": "En 1852, de quoi le coup d'État de Louis Napoléon Bonaparte marque-t-il la fin ?",
+   "bonnereponse": "De la deuxième République",
+   "reponse2": "De la guerre",
+   "reponse3": "De la paix",
+   "reponse4": "De la monarchie"
+ },
+ {
+   "question": "En 1881, une loi républicaine très importante a été votée. Que concernait-elle ?",
+   "bonnereponse": "L'école",
+   "reponse2": "Les commerçants",
+   "reponse3": "Les paysans",
+   "reponse4": "Les banques"
+ },
+ {
+   "question": "Quel régime politique est sorti victorieux du XIXe siècle ?",
+   "bonnereponse": "La république",
+   "reponse2": "La monarchie",
+   "reponse3": "L'empire",
+   "reponse4": "L'oligarchie"
+ },
+ {
+   "question": "Quelle loi importante Louis XVIII a-t-il fait voter ?",
+   "bonnereponse": "L’égalité des citoyens devant la loi.",
+   "reponse2": "Le mariage pour tous",
+   "reponse3": "L'impot sur la fortune",
+   "reponse4": "Le code civil"
+ },
+ {
+   "question": "Au XIXe siècle, qui n'était pas vraiment concerné par \"l'égalité\", chère à la République ?",
+   "bonnereponse": "Les femmes",
+   "reponse2": "Les pauvres",
+   "reponse3": "Les paysans",
+   "reponse4": "Les esclaves"
+ },
+ {
+   "question": "Qui est favorisé par la politique économique de Napoléon III ?",
+   "bonnereponse": "Les industriels.",
+   "reponse2": "Les paysans",
+   "reponse3": "Les bourgeois",
+   "reponse4": "Les pauvres"
+ },
+ {
+   "question": "En 1880, le 14 juillet est devenu jour de fête nationale car, …",
+   "bonnereponse": "100 ans plus tôt, on avait fêté le premier anniversaire de la Prise de la Bastille, qui avait eu lieu le 14 juillet 1789.",
+   "reponse2": "Le fils du roi est né.",
+   "reponse3": "La France a gagné contre les allemands.",
+   "reponse4": "La France a gagné la coupe d'Europe."
+ },
+ {
+   "question": "Où Charles X s’est-il enfui après \"Les Trois Glorieuses\" ?",
+   "bonnereponse": "En Angleterre",
+   "reponse2": "En Italie.",
+   "reponse3": "En Espagne",
+   "reponse4": "En Suisse"
+ },
+ {
+   "question": "Qui était Jean Moulin ?",
+   "bonnereponse": "Un résistant qui organisa le mouvement de la Résistance en France.",
+   "reponse2": "Un traître",
+   "reponse3": "Un président",
+   "reponse4": "Un soldat connu pour avoir été brave"
+ },
+ {
+   "question": "Pendant la Première Guerre mondiale, deux blocs (groupes) de pays s'affrontaient : la Triple-Entente et...",
+   "bonnereponse": "la Triple-Alliance.",
+   "reponse2": "La Triplette",
+   "reponse3": "Les trois pays.",
+   "reponse4": "La triple armée."
+ },
+ {
+   "question": "Quel pays rejoint la Triple Entente à nos côtés en 1917 ?",
+   "bonnereponse": "Les USA",
+   "reponse2": "L'Italie",
+   "reponse3": "La Suisse",
+   "reponse4": "Le Portugal"
+ },
+ {
+   "question": "A quelle date le traité de Rome qui créait la Communauté économique européenne (CEE) a-t-il été signé ?",
+   "bonnereponse": "En 1957",
+   "reponse2": "1960",
+   "reponse3": "1947",
+   "reponse4": "1955"
+ },
+ {
+   "question": "Que s'est-il passé le 3 septembre 1939 ?",
+   "bonnereponse": "La France et le Royaume-Uni ont déclaré la guerre à l'Allemagne.",
+   "reponse2": "Le pape est mort.",
+   "reponse3": "La France a perdu la guerre.",
+   "reponse4": "L'Allemagne a attaqué la France"
+ },
+ {
+   "question": "Quel événement a eu lieu en juin 1944 ?",
+   "bonnereponse": "Le débarquement des armées alliées en Normandie.",
+   "reponse2": "La fin de guerre.",
+   "reponse3": "La prise de Berlin.",
+   "reponse4": "La mort de Hitler."
+ },
+ {
+   "question": "Que représente cette date : 8 mai 1945 ?",
+   "bonnereponse": "La capitulation de l'Allemagne.",
+   "reponse2": "La mort de Hitler.",
+   "reponse3": "La défaite des russes.",
+   "reponse4": "Le premier 8 mai férié."
+ },
+ {
+   "question": "Après la fin de la Première Guerre mondiale, en 1919, un traité est signé. Quel est le nom de ce traité ?",
+   "bonnereponse": "Le traité de Versailles.",
+   "reponse2": "Le traité de Paris.",
+   "reponse3": "La COP21.",
+   "reponse4": "Le traité de Berlin."
+ },
+ {
+   "question": "Comment étaient appelés les soldats français pendant la Première Guerre mondiale ?",
+   "bonnereponse": "Les Poilus.",
+   "reponse2": "Les sales.",
+   "reponse3": "Les braves.",
+   "reponse4": "Les courageux."
+ },
+ {
+   "question": "Quand l'homme est-il apparu ? ",
+   "bonnereponse": "Il y a 3 000 000 d'années",
+   "reponse2": "Il y a 2023 ans.",
+   "reponse3": "Il y a 3000 ans.",
+   "reponse4": "Il y a 300 000 d'années."
+ },
+ {
+   "question": "Qu'est-ce qu'un propulseur ?",
+   "bonnereponse": "Un morceau de bois qui servait à envoyer les sagaies (= lances) plus fort et plus loin.",
+   "reponse2": "Un engin motorisé.",
+   "reponse3": "Un jeu des hommes préhistoriques.",
+   "reponse4": "Une pierre taillée bizarrement."
+ },
+ {
+   "question": "Quel genre de spectacles organisait-on dans les arènes ?",
+   "bonnereponse": "Des combats de gladiateurs",
+   "reponse2": "Des banquets",
+   "reponse3": "Des courses",
+   "reponse4": "Des joutes."
+ },
+ {
+   "question": "Par quel acte Clovis a-t-il favorisé le rapprochement entre les Francs et les Gallo-romains ?",
+   "bonnereponse": "En se faisant baptiser avec une grande partie de ses guerriers.",
+   "reponse2": "En envahissant Rome.",
+   "reponse3": "En offrant sa fille aux romains.",
+   "reponse4": "En donnant des terres."
+ },
+ {
+   "question": "Qui était Jules César ?",
+   "bonnereponse": "Le chef des armées romaines.",
+   "reponse2": "L'emepereur",
+   "reponse3": "Le roi",
+   "reponse4": "Le président"
+ },
+ {
+   "question": "De qui Charlemagne était-il le petit fils ?",
+   "bonnereponse": "Charles Martel",
+   "reponse2": "Clovis",
+   "reponse3": "Louis I",
+   "reponse4": "Jules César"
+ },
+ {
+   "question": "Que devient la Gaule après la victoire de Jules César ?",
+   "bonnereponse": "La Gaule fait entièrement partie de l’Empire Romain.",
+   "reponse2": "Elle est détruite.",
+   "reponse3": "Elle est vendue.",
+   "reponse4": "Elle est libérée gracieusement."
+ },
+ {
+   "question": "Pourquoi les hommes du Néolithique chassaient-ils moins que ceux du Paléolithique ?",
+   "bonnereponse": "Parce qu’ils avaient commencé à développer l’élevage.",
+   "reponse2": "Par flemme.",
+   "reponse3": "Par manque d'armes.",
+   "reponse4": "Par hasard."
+ },
+ {
+   "question": "Quelle période est appelée Paléolithique ?",
+   "bonnereponse": "C'est le nom de la Préhistoire ancienne.",
+   "reponse2": "Le milieu de la préhistoire",
+   "reponse3": "La fin de la préhistoire",
+   "reponse4": "Après la préhistoire."
+ },
+ {
+   "question": "À quel âge Louis XIV est-il devenu roi ? ",
+   "bonnereponse": "À 5 ans.",
+   "reponse2": "A 10 ans.",
+   "reponse3": "A 7 ans.",
+   "reponse4": "A 2 ans."
+ },
+ {
+   "question": "Quelle est la nationalité de Raphaël, Michel Ange et Léonard de Vinci ?",
+   "bonnereponse": "Italienne",
+   "reponse2": "Française",
+   "reponse3": "Russe",
+   "reponse4": "Suisse"
+ },
+ {
+   "question": "Quelles sont les dates du règne de Louis XIV ?",
+   "bonnereponse": "De 1643 à 1715.",
+   "reponse2": "De 1650 à 1700",
+   "reponse3": "De 1645 à 1710",
+   "reponse4": "De 1647 à 1720."
+ },
+ {
+   "question": "Qui a décidé de faire construire le château de Versailles ? ",
+   "bonnereponse": "Louis XIV",
+   "reponse2": "Louis XV",
+   "reponse3": "Louis XVI",
+   "reponse4": "Louis XIII"
+ },
+ {
+   "question": "Qui détient le pouvoir dans une monarchie ?",
+   "bonnereponse": "Le roi.",
+   "reponse2": "L'empereur",
+   "reponse3": "Le chef",
+   "reponse4": "Le consul."
+ },
+ {
+   "question": "En quelle année Louis XIV révoqua-t-il l'édit de Nantes signé par Henri IV ?",
+   "bonnereponse": "En 1685",
+   "reponse2": "En 1680",
+   "reponse3": "En 1676",
+   "reponse4": "En 1684"
+ },
+ {
+   "question": "Quelles constructions symbolisent la Renaissance en France ?",
+   "bonnereponse": "Les châteaux de la Loire.",
+   "reponse2": "La ligne Maginot",
+   "reponse3": "Les menhirs",
+   "reponse4": "Les musées."
+ },
+ {
+   "question": "On l'appelait aussi le « Roi-Soleil ». De qui s'agit-il ?",
+   "bonnereponse": "Louis XIV",
+   "reponse2": "Louis XV",
+   "reponse3": "Louis XVI",
+   "reponse4": "Louis XIII"
+ },
+ {
+   "question": "Que devient la France, agrandie suite aux conquêtes napoléoniennes ?",
+   "bonnereponse": "La France des 130 départements.",
+   "reponse2": "La France des 125 départements.",
+   "reponse3": "La France des 128 départements.",
+   "reponse4": "La France des 129 départements."
+ },
+ {
+   "question": "Comment s'appelle le code de lois rédigé par Napoléon Ier ?",
+   "bonnereponse": "Le Code civil.",
+   "reponse2": "Le code pénal.",
+   "reponse3": "La constitution.",
+   "reponse4": "La loi."
+ },
+ {
+   "question": "Comment s’est appelée la période pendant laquelle Napoléon était au pouvoir ?",
+   "bonnereponse": "L’empire.",
+   "reponse2": "La monarchie.",
+   "reponse3": "L'oligarchie.",
+   "reponse4": "La théocratie."
+ },
+ {
+   "question": "Comment Napoléon Ier gouverne-t-il ?",
+   "bonnereponse": "En maître absolu",
+   "reponse2": "En président républicain.",
+   "reponse3": "En faisant des votes.",
+   "reponse4": "Paisiblement."
+ },
+ {
+   "question": "Comment appelle-t-on l’armée napoléonienne ?",
+   "bonnereponse": "La Grande Armée.",
+   "reponse2": "L'énorme armée.",
+   "reponse3": "L'armée monstrueuse.",
+   "reponse4": "L'armée gigantesque."
+ },
+ {
+   "question": "Que peut-on dire de l’Empereur Napoléon Ier ?",
+   "bonnereponse": "C’est un bon administrateur.",
+   "reponse2": "Il est parfait.",
+   "reponse3": "Il est mauvais tacticien de guerre.",
+   "reponse4": "Il a appauvri la France."
+ },
+ {
+   "question": "Qu'appelle-t-on les Cent-Jours ?",
+   "bonnereponse": "La période pendant laquelle Napoléon était revenu en France entre ses deux exils.",
+   "reponse2": "La durée de son coup d'état.",
+   "reponse3": "La durée de sa mort une fois exilé.",
+   "reponse4": "Le deuil après sa mort."
+ },
+ {
+   "question": "Qui est installé au pouvoir après l'exil de Napoléon ?",
+   "bonnereponse": "Un roi.",
+   "reponse2": "Un président.",
+   "reponse3": "Un prince.",
+   "reponse4": "Un chef."
+ },
+ {
+   "question": "En quelle année Bonaparte devient-il Empereur ?",
+   "bonnereponse": "1804.",
+   "reponse2": "En 1805.",
+   "reponse3": "En 1806.",
+   "reponse4": "En 1807."
+ },
+ {
+   "question": "Quelle période se place entre l'Antiquité et les Temps Modernes ?",
+   "bonnereponse": "Le Moyen Age",
+   "reponse2": "La préhistoire.",
+   "reponse3": "La Renaissance.",
+   "reponse4": "L'age du bronze."
+ },
+ {
+   "question": "Quelle unité de temps choisirais-tu pour représenter le Moyen Âge (qui dure près de 1000 ans) sur ton cahier ?",
+   "bonnereponse": "Le siècle",
+   "reponse2": "L'année.",
+   "reponse3": "Le millénaire",
+   "reponse4": "La décennie"
+ },
+ {
+   "question": "Quelle est la période qui débute en 1492 ?",
+   "bonnereponse": "Les Temps Modernes",
+   "reponse2": "La Renaissance.",
+   "reponse3": "L'antiquité",
+   "reponse4": "L'age du fer."
+ },
+ {
+   "question": "Comment appelle-t-on l’outil qui  nous permet de nous repérer et de visualiser le temps qui passe ?",
+   "bonnereponse": "La frise chronologique.",
+   "reponse2": "La crise pronologique.",
+   "reponse3": "La prise crolique.",
+   "reponse4": "La brise brololique."
+ },
+ {
+   "question": "Qu’est-ce qui marque la fin de la Préhistoire et le début de l’Histoire ?",
+   "bonnereponse": "L’apparition de l’écriture.",
+   "reponse2": "La disparition des dinosaures.",
+   "reponse3": "L'invention de la roue.",
+   "reponse4": "La découverte du feu."
+ },
+ {
+   "question": "Quel évènement marque la fin des Temps modernes ?",
+   "bonnereponse": "La chute de Napoléon.",
+   "reponse2": "La prise de pouvoir de Napoléon",
+   "reponse3": "La mort de Napoléon.",
+   "reponse4": "La naissance de Napoléon."
+ },
+ {
+   "question": "Durant quelle période de grandes civilisations se sont développées autour de la Méditerranée ?",
+   "bonnereponse": "l'Antiquité.",
+   "reponse2": "Les Temps Modernes",
+   "reponse3": "La Renaissance.",
+   "reponse4": "L'age du fer."
+ },
+ {
+   "question": "À quelle obligation les enfants de plus de 6 ans doivent-ils se soumettre à partir de 1882 ?",
+   "bonnereponse": "Ils doivent recevoir une instruction",
+   "reponse2": "Ils doivent payer leurs impôts.",
+   "reponse3": "Ils doivent obéir à leurs parents.",
+   "reponse4": "Ils doivent faire le service militaire."
+ },
+ {
+   "question": "Quelle invention a initié la révolution industrielle ?",
+   "bonnereponse": "La machine à vapeur inventée par les Anglais.",
+   "reponse2": "La découverte de la gravité.",
+   "reponse3": "La découverte l'éléctricité.",
+   "reponse4": "La découverte de l'Amérique."
+ },
+ {
+   "question": "Quelles sont les deux industries qui se développèrent le plus en France au 19e siècle ?",
+   "bonnereponse": "L'industrie textile et l'industrie sidérurgique.",
+   "reponse2": "Les parfums.",
+   "reponse3": "Les banques et assurances.",
+   "reponse4": "L'agriculture."
+ },
+ {
+   "question": "Qu'est-ce qui s'est développé pendant la révolution industrielle ?",
+   "bonnereponse": "Les usines",
+   "reponse2": "Les champs.",
+   "reponse3": "Les villes.",
+   "reponse4": "Les forêts."
+ },
+ {
+   "question": "Que permettent les travaux de Seguin et Stephenson ?",
+   "bonnereponse": "Ils permettent la mise au point des locomotives à vapeur.",
+   "reponse2": "D'utiliser l'électricité.",
+   "reponse3": "D'élever des chèvres.",
+   "reponse4": "De faciliter le transport."
+ },
+ {
+   "question": "En quoi la construction du réseau ferré entraîne-t-elle toute l’économie ?",
+   "bonnereponse": "Parce qu’il faut construire des rails, des wagons et des locomotives.",
+   "reponse2": "Car ça fait gagner de l'argent.",
+   "reponse3": "Car ça fait aller plus vite.",
+   "reponse4": "Car c'est bien."
+ },
+ {
+   "question": "Quelle région devient la première région industrielle de France au XIXe siècle ?",
+   "bonnereponse": "Nord-Pas-de-Calais.",
+   "reponse2": "Ile-de-France",
+   "reponse3": "PACA.",
+   "reponse4": "Rhones-Alpes."
+ },
+ {
+   "question": "Quelle est l'invention développée à la fin du XXe siècle qui révolutionne les communications, le travail, la production industrielle et la vie courante ?",
+   "bonnereponse": "L'informatique.",
+   "reponse2": "L'électricité",
+   "reponse3": "Les ampoules.",
+   "reponse4": "La voiture."
+ },
+ {
+   "question": "Qu'est-ce qui était principalement extrait des mines durant la révolution industrielle ?",
+   "bonnereponse": "Du charbon",
+   "reponse2": "Du fuel.",
+   "reponse3": "De l'uranium.",
+   "reponse4": "Du fer."
+ },
+ {
+   "question": "Quel pays la France a-t-elle affronté pendant la Première Guerre mondiale ?",
+   "bonnereponse": "l'Allemagne",
+   "reponse2": "Le Japon.",
+   "reponse3": "L'Espagne.",
+   "reponse4": "La Suisse."
+ },
+ {
+   "question": "Quel organisme mondial a été créé pour maintenir la paix, au lendemain de la Première Guerre mondiale ?",
+   "bonnereponse": "La Société des Nations.",
+   "reponse2": "L'ONU.",
+   "reponse3": "L'UNESCO.",
+   "reponse4": "L'OTAN."
+ },
+ {
+   "question": "Les Allemands ont attaqué l'armée française en passant par un pays neutre. Lequel ?",
+   "bonnereponse": "La Belgique.",
+   "reponse2": "La Suisse.",
+   "reponse3": "L'Italie.",
+   "reponse4": "Le Luxembourg."
+ },
+ {
+   "question": "En quelle année a débuté la Première Guerre mondiale ?",
+   "bonnereponse": "En 1914.",
+   "reponse2": "En 1918.",
+   "reponse3": "En 1913.",
+   "reponse4": "En 1917."
+ },
+ {
+   "question": "Durant la Première Guerre mondiale, où vivent les soldats lorsqu’ils sont au front ?",
+   "bonnereponse": "dans des tranchées",
+   "reponse2": "Dans des hôtels.",
+   "reponse3": "Dans des casernes.",
+   "reponse4": "Dans leurs maisons."
+ },
+ {
+   "question": "Quel événement est à l'origine du déclenchement de la Première Guerre mondiale ?",
+   "bonnereponse": "L'assassinat de l'archiduc François-Ferdinand d'Autriche-Hongrie, le 28 juin 1914.",
+   "reponse2": "L'envie générale de se battre.",
+   "reponse3": "La mort du président français.",
+   "reponse4": "L'annexion de la Pologne par l'Allemagne."
+ },
+ {
+   "question": "Quelle grande bataille a lieu en 1916 ?",
+   "bonnereponse": "la bataille de Verdun",
+   "reponse2": "La bataille de la Marne.",
+   "reponse3": "La bataille du Nord.",
+   "reponse4": "La bataille de la mort."
+ },
+ {
+   "question": "Quelle bataille se déroula en septembre 1914 ?",
+   "bonnereponse": "La bataille de la Marne.",
+   "reponse2": "La bataille de Verdun.",
+   "reponse3": "La bataille du Nord.",
+   "reponse4": "La bataille de la mort."
+ }
+]
